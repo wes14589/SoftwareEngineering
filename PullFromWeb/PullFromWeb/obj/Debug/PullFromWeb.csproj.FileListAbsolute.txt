@@ -1,0 +1,7 @@
+E:\Sm5\SoftwareEngineering\PullFromWeb\PullFromWeb\bin\Debug\PullFromWeb.exe.config
+E:\Sm5\SoftwareEngineering\PullFromWeb\PullFromWeb\bin\Debug\PullFromWeb.exe
+E:\Sm5\SoftwareEngineering\PullFromWeb\PullFromWeb\bin\Debug\PullFromWeb.pdb
+E:\Sm5\SoftwareEngineering\PullFromWeb\PullFromWeb\obj\Debug\PullFromWeb.csprojResolveAssemblyReference.cache
+E:\Sm5\SoftwareEngineering\PullFromWeb\PullFromWeb\obj\Debug\PullFromWeb.csproj.CoreCompileInputs.cache
+E:\Sm5\SoftwareEngineering\PullFromWeb\PullFromWeb\obj\Debug\PullFromWeb.exe
+E:\Sm5\SoftwareEngineering\PullFromWeb\PullFromWeb\obj\Debug\PullFromWeb.pdb
